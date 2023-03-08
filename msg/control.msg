@@ -1,0 +1,9 @@
+Header header
+bool mode_continuous
+bool power_on
+bool sensor_to_sleep
+bool resolution_4x4
+bool order_by_strongest
+uint8 ranging_frequency
+uint8 sharpener_in_percent
+uint16 integration_time
